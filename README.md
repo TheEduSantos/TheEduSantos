@@ -1,11 +1,10 @@
 # Welcome to My Profile 👋
 
 ## About Me
-Hello! I am Eduardo, 20 years old, Brazilian, and I am student of Information Security, and Development. Although I have little professional experience, I am extremely motivated to learn and improve my skills.
+Hello! I am Eduardo, Brazilian, I am student of Information Security, I also study Development and I have the AWS Cloud Practitioner certification. 
+I am very dedicated to improving my skills and always seek new opportunities to grow.
 
-In my CyberSecurity studies, I've gained knowledge about computer networks, log analysis, and various tools used in ethical hacking/penetration testing. Regarding my studies in programming languages, I have studied programming logic, some programming languages, such as Python (my favorite one) and Ruby, as well as HTML, CSS and JavaScript. I have honed my skills through hands-on experience in diverse projects, guided by tutorials, and self-driven exploration..
-
-Additionally, I am a proactive, organized, and committed individual who strives for high-quality results. I am able to work well in a team, and I am always looking to learn more to develop professionally.
+Throughout my studies in Cybersecurity, I delved into the intricacies of computer networks, log analysis, and a variety of tools used in ethical hacking/penetration testing. In the field of programming languages, in addition to being proficient in HTML, CSS, I am studying programming logic and sought to learn Python and JavaScript. 
 
 ## Main Skills
 - 💻 Linux
