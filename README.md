@@ -4,8 +4,6 @@
 Hello! I am Eduardo, Brazilian, I am student of Information Security, I also study Development and I have the AWS Cloud Practitioner certification. 
 I am very dedicated to improving my skills and always seek new opportunities to grow.
 
-Throughout my studies in Cybersecurity, I delved into the intricacies of computer networks, log analysis, and a variety of tools used in ethical hacking/penetration testing. In the field of programming languages, in addition to being proficient in HTML, CSS, I am studying programming logic and sought to learn Python and JavaScript. 
-
 ## Main Skills
 - 💻 Linux
 - 🔐 Cybersecurity
@@ -19,7 +17,6 @@ Throughout my studies in Cybersecurity, I delved into the intricacies of compute
           
 
 ## Learning
-- Databases <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="20" height="20" />
 - JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" />
 
 
